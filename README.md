@@ -46,7 +46,7 @@ EAGLE Mafia Bot made by @D3_krish and @eagle_with_sucker. Supported by respectiv
 
 ## [𝕊𝕒𝕞𝕖𝕖𝕣](https://t.me/SAMEER_795)
 
-## [𝔻3𝕂ℝ𝕀𝕊ℍ](https://t.me/D3_krish
+## [𝔻3𝕂ℝ𝕀𝕊ℍ](https://t.me/D3_krish)
 
 </details>
 
