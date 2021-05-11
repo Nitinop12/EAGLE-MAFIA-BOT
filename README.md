@@ -1,7 +1,7 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-BOT/dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/EAGLE-MAFIA-BOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIA-BOT)
-[![HitCount](http://hits.dwyl.com/sameerpanthi/EAGLE-MAFIA-BOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT)
+![GitHub repo size](https://img.shields.io/github/repo-size/sameerpanthi/EAGLE-MAFIA-BOT)
+[![HitCount](http://hits.dwyl.com/sameerpanthi/EAGLE-MAFIA-BOT.svg)](http://hits.dwyl.com/sameerpanthi/EAGLE-MAFIA-BOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/D3_krish)
 
 
@@ -9,7 +9,7 @@
 # 𝕋ℍ𝔼 𝔼𝔸𝔾𝕃𝔼 𝕄𝔸𝔽𝕀𝔸 𝔹𝕆𝕋
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-EAGLE Mafia Bot made by @D3_krish and @eagle_with_sucker. Supported by respective savage bot owner @@SAMEER_795. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
+EAGLE Mafia Bot made by @D3_krish and @eagle_with_sucker. Supported by respective savage bot owner @SAMEER_795. Join for update related info channel and group :- https://t.me/eagle_with_sucker THANKS FOR VISITING OUR REPO💖
 [![EAGLE MAFIA BOT LOGO](https://telegra.ph/file/385f6edbc9dd183e8da0b.jpg)](https://t.me/eagle_with_sucker)
 
 
@@ -44,9 +44,9 @@ EAGLE Mafia Bot made by @D3_krish and @eagle_with_sucker. Supported by respectiv
 <h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
-[𝕊𝕒𝕞𝕖𝕖𝕣](https://t.me/SAMEER_795)
+## [𝕊𝕒𝕞𝕖𝕖𝕣](https://t.me/SAMEER_795)
 
-[𝔻3𝕂ℝ𝕀𝕊ℍ](https://t.me/D3_krish
+## [𝔻3𝕂ℝ𝕀𝕊ℍ](https://t.me/D3_krish
 
 </details>
 
