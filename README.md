@@ -13,7 +13,7 @@ EAGLE Mafia Bot made by @D3_krish and @Owner_of_team_eagle_mafia. Supported by r
 
 ## OWNER OF THIS BOT👇
 
-[EAGLE MAFIA OWNER](https://t.me/Owner_of_team_eagle_mafia)
+## [ꬴᶏꬶȴꬴ ꬺᶏƒᶖᶏ ꝍⱳꬼꬴꭉ](https://t.me/Owner_of_team_eagle_mafia)
 
 
 [![EAGLE MAFIA BOT LOGO](https://telegra.ph/file/385f6edbc9dd183e8da0b.jpg)](https://t.me/eagle_with_sucker)
