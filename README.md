@@ -55,3 +55,9 @@ TAKE STRING FROM HERE -
 -------------------------------------------------
 
 
+
+CREIDTS --
+ 
+[HELLBOT](https://github.com/HellBoy-OP/HellBot)
+[HELLBOY](https://github.com/HellBoy-OP)
+[MAFIABOT](https://www.google.com/url?sa=t&source=web&rct=j&url=https://github.com/H1M4N5HU0P/MAFIA-USERBOT&ved=2ahUKEwjpxJuQ6sHwAhXXgtgFHWCgAGsQFjAAegQIAxAC&usg=AOvVaw1phsVi81-9cuA7sP-JlJDS)
