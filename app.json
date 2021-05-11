@@ -1,6 +1,6 @@
 {
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @SAMEER_795, @D3_krish and @eagle_with_sucker special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @eagle_with_sucker",
+  "name": "𝕋ℍ𝔼 𝔼𝔸𝔾𝕃𝔼 𝕄𝔸𝔽𝕀𝔸 𝔹𝕆𝕋",
+  "description": "The 𝔼𝔸𝔾𝕃𝔼 𝕄𝔸𝔽𝕀𝔸 𝔹𝕆𝕐 made by @SAMEER_795, @D3_krish and @eagle_with_sucker special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @eagle_with_sucker",
   "logo": "https://telegra.ph/file/385f6edbc9dd183e8da0b.jpg",
     "keywords": [
     "telegram",
@@ -112,7 +112,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "22c9f205-3860-48e7-a1e5-457c15480877",
+      "value":"014a3aea-1295-4190-8ee3-be15a376666c",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -122,7 +122,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+      "value": "1695392761:AAEe3Ac5XxTzuKlARGCXtkL41pHEm6O9dP0"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@V_op_BOt"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
