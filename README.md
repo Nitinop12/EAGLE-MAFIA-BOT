@@ -11,7 +11,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/EAGLE-MAFIA-BOT?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/EAGLE-MAFIA-BOT&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sameerpanthi/EAGLE-MAFIA-BOT)
-[![HitCount](http://hits.dwyl.com/sameerpanthi/EAGLE-MAFIA-BOT.svg)](http://hits.dwyl.com/sameerpanthi/EAGLE-MAFIA-BOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/SAMEER_795)
 <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
 -------------------------------------------------
@@ -23,7 +22,6 @@
 
 ## STATUS OF THIS BOTS 
 <p align="left"><a href="https://github.com/sameerpanthi/EAGLE-MAFIA-BOT/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/EAGLE-MAFIA-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/EAGLE-MAFIA-BOT/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/EAGLE-MAFIA-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/EAGLE-MAFIA-BOT"></a><p align="left"><a href="https://github.com/sameerpanthi/EAGLE-MAFIA-BOT"><img src="https://img.shields.io/github/last-commit/sameerpanthi/EAGLE-MAFIA-BOT?style=plastic"></a>
-
 
 -------------------------------------------------
 
