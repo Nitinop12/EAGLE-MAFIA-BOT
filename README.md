@@ -25,20 +25,18 @@
 
 -------------------------------------------------
 
-匚尺乇卂ㄒㄖ尺 : [丂卂爪乇乇尺](https://t.me/SAMEER_795)
+Cʀᴇᴀᴛᴏʀ : [Sᴀᴠᴀɢᴇ Sᴀᴍᴇᴇʀ](https://t.me/SAMEER_795)
 
-2ND 匚尺乇卂ㄒㄖ尺 : [Ҝ尺|丂卄](https://t.me/D3_krish)
+Cᴏ Cʀᴇᴀᴛᴏʀ : [D3ᴠɪʟ ᴋʀɪsʜ](https://t.me/D3_krish)
 
-𝙺𝚛𝚒𝚜𝚑 𝚔𝚒 𝚓𝚊an : [卄乇卂ᐯ乇几 卩尺丨几匚乇丂丂](https://t.me/Heaven_Princess)
+Kʀɪsʜ's ᴊᴀᴀɴ : [Pʀɪɴᴄᴇss](https://t.me/Heaven_Princess)
             
                             
 -------------------------------------------------
 
-## Join our Support Channel and Group regrading bug fixes
-
-<a href="https://t.me/joinchat/0KCyT0MHyAhmMmRl"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
-<a href="https://t.me/joinchat/wneaPnHMi_1lNTU1"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/eagle_with_sucker"><img src="https://img.shields.io/badge/Join-TEAM%20GROUP-red.svg?logo=Telegram"></a>
+# Support
+<a href="https://t.me/SAVAGE_TECHY"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/EAGLE_MAFIA_USERBOT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 -------------------------------------------------
 
