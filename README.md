@@ -46,14 +46,10 @@ Kʀɪsʜ's Jᴀᴀɴ : [Pʀɪɴᴄᴇss](https://t.me/Heaven_Princess)
 
 -----------------------------------------------
 
-Mᴀɴᴅᴀᴛᴏʀʏ ᴠᴀʀs -
+Tᴀᴋᴇ Sᴛʀɪɴɢ Sᴇssɪᴏɴ Fʀᴏᴍ - 
 
-[Sᴛʀɪɴɢ Sᴇssɪᴏɴ](https://replit.com/@sameerpanthi/SAVAGE-BOT#main.py)
-
-[Aᴘᴘ ɪᴅ & Aᴘᴘ Hᴀsʜ](my.telegram.org)    
-
-[Bᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
-
+[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/SAVAGE-BOT#main.py)
+                     
 -------------------------------------------------
 
 
