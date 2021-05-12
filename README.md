@@ -49,9 +49,11 @@ Kʀɪsʜ's Jᴀᴀɴ : [Pʀɪɴᴄᴇss](https://t.me/Heaven_Princess)
 Mᴀɴᴅᴀᴛᴏʀʏ ᴠᴀʀs -
 
 [Sᴛʀɪɴɢ Sᴇssɪᴏɴ](https://replit.com/@sameerpanthi/SAVAGE-BOT#main.py)
+
 [Aᴘᴘ ɪᴅ & Aᴘᴘ Hᴀsʜ](my.telegram.org)    
+
 [Bᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
-"https://t.me/botfather"><button type="button" class="btn btn-dark active"><i class="fa fa-github"></i> STRING SESSION</button>
+
 -------------------------------------------------
 
 
