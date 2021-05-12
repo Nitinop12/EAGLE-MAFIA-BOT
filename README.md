@@ -27,9 +27,9 @@
 
 Cʀᴇᴀᴛᴏʀ : [Sᴀᴠᴀɢᴇ Sᴀᴍᴇᴇʀ](https://t.me/SAMEER_795)
 
-Cᴏ Cʀᴇᴀᴛᴏʀ : [D3ᴠɪʟ ᴋʀɪsʜ](https://t.me/D3_krish)
+Cᴏ Cʀᴇᴀᴛᴏʀ : [D3ᴠɪʟ Kʀɪsʜ](https://t.me/D3_krish)
 
-Kʀɪsʜ's ᴊᴀᴀɴ : [Pʀɪɴᴄᴇss](https://t.me/Heaven_Princess)
+Kʀɪsʜ's Jᴀᴀɴ : [Pʀɪɴᴄᴇss](https://t.me/Heaven_Princess)
             
                             
 -------------------------------------------------
