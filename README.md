@@ -29,9 +29,7 @@
 
 2ND 匚尺乇卂ㄒㄖ尺 : [Ҝ尺|丂卄](https://t.me/D3_krish)
 
-ㄖ山几乇尺 : [丂|ᗪᗪ卄卂尺ㄒ](https://t.me/Owner_of_team_eagle_mafia)
-
-𝙺𝚛𝚒𝚜𝚑 𝚔𝚒 𝚓𝚊𝚊𝚗 : [卄乇卂ᐯ乇几 卩尺丨几匚乇丂丂](https://t.me/Heaven_Princess)
+𝙺𝚛𝚒𝚜𝚑 𝚔𝚒 𝚓𝚊an : [卄乇卂ᐯ乇几 卩尺丨几匚乇丂丂](https://t.me/Heaven_Princess)
             
                             
 -------------------------------------------------
@@ -40,7 +38,7 @@
 
 <a href="https://t.me/joinchat/0KCyT0MHyAhmMmRl"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 <a href="https://t.me/joinchat/wneaPnHMi_1lNTU1"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="@eagle_with_sucker"><img src="https://img.shields.io/badge/Join-TEAM%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/eagle_with_sucker"><img src="https://img.shields.io/badge/Join-TEAM%20GROUP-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
@@ -60,6 +58,10 @@ TAKE STRING FROM HERE -
 
 CREIDTS --
  
+[🦅EAGLE OWNER🦅](https://t.me/Owner_of_team_eagle_mafia)
+
+[💖EAGLE CO OWNER💖](https://t.me/Helll_boyyyy)
+
 [🔥HELLBOT🔥](https://github.com/HellBoy-OP/HellBot)
 
 [❣️HELLBOY😊](https://github.com/HellBoy-OP)
