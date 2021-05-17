@@ -36,7 +36,11 @@ Kʀɪsʜ's Jᴀᴀɴ : [Pʀɪɴᴄᴇss](https://t.me/Heaven_Princess)
 
 # Sᴜᴘᴘᴏʀᴛ
 <a href="https://t.me/SAVAGE_TECHY"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/EAGLE_MAFIA_USERBOT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/EAGLE_MAFIA_USERBOT"><a href="https://t.me/eagle_with_sucker"><img src="https://img.shields.io/badge/Join-CHAT%20Group-yellow.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/EAGLE_MAFIA_USERBOT"><img src="https://img.shields.io/badge/Join-Support%20Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/Owner_of_team_eagle_mafia"><img src="https://img.shields.io/badge/CONTACT-USERBOT%20OWNER-yellow.svg?style=for-the-badge&logo=Telegram"></a>
+
 
 -------------------------------------------------
 
@@ -48,7 +52,7 @@ Kʀɪsʜ's Jᴀᴀɴ : [Pʀɪɴᴄᴇss](https://t.me/Heaven_Princess)
 
 Tᴀᴋᴇ Sᴛʀɪɴɢ Sᴇssɪᴏɴ Fʀᴏᴍ - 
 
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/SAVAGE-BOT#main.py)
+## [REPL](https://replit.com/@D3krish/EAGLEMAFIABOTSTRINGSESSION#main.py)
                      
 -------------------------------------------------
 
@@ -56,9 +60,9 @@ Tᴀᴋᴇ Sᴛʀɪɴɢ Sᴇssɪᴏɴ Fʀᴏᴍ -
 
 CREIDTS --
  
-[🦅EAGLE OWNER🦅](https://t.me/Owner_of_team_eagle_mafia)
+[🦅EAGLE_BOT OWNER🦅](https://t.me/Owner_of_team_eagle_mafia)
 
-[💖EAGLE CO OWNER💖](https://t.me/Helll_boyyyy)
+[💖EAGLE_BOT CO OWNER💖](https://t.me/Helll_boyyyy)
 
 [🔥HELLBOT🔥](https://github.com/HellBoy-OP/HellBot)
 
