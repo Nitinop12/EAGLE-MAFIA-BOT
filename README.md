@@ -52,7 +52,7 @@ Kʀɪsʜ's Jᴀᴀɴ : [Pʀɪɴᴄᴇss](https://t.me/Heaven_Princess)
 
 Tᴀᴋᴇ Sᴛʀɪɴɢ Sᴇssɪᴏɴ Fʀᴏᴍ - 
 
-## [REPL](https://replit.com/@D3krish/EAGLEMAFIABOTSTRINGSESSION#main.py)
+[![REPL](https://replit.com/@D3krish/EAGLEMAFIABOTSTRINGSESSION#main.py)]
                      
 -------------------------------------------------
 
